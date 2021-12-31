@@ -22,3 +22,7 @@ Unicomplex Coin
 # Roadmap
 
 There is not one at the moment, doing this for fun. 
+
+# Whitepaper
+
+Yet another token on the Solana network. 
